@@ -1,0 +1,12 @@
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/bin/Debug/net7.0/MultiFormatDataToolkit.deps.json
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/bin/Debug/net7.0/MultiFormatDataToolkit.dll
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/bin/Debug/net7.0/MultiFormatDataToolkit.pdb
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.csproj.AssemblyReference.cache
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.GeneratedMSBuildEditorConfig.editorconfig
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.AssemblyInfoInputs.cache
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.AssemblyInfo.cs
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.csproj.CoreCompileInputs.cache
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.dll
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/refint/MultiFormatDataToolkit.dll
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/MultiFormatDataToolkit.pdb
+/home/huan_rozb/RiderProjects/MultiFormatDataToolkit/MultiFormatDataToolkit/obj/Debug/net7.0/ref/MultiFormatDataToolkit.dll
